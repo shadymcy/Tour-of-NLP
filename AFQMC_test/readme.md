@@ -1,6 +1,7 @@
 运用ESIM模型、BERT 处理蚂蚁金融语义相似度数据集\
 
 *参考论文:*
+
 Enhanced LSTM for Natural Language Inference, 	arXiv:1609.06038\
 Official Code:https://github.com/lukecq1231/nli
 
