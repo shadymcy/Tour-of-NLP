@@ -1,6 +1,7 @@
 # TextCNN图示
 
 *参考论文:*
+
 Convolutional Neural Networks for Sentence Classification, 	arXiv:1408.5882\
 Community Code: https://paperswithcode.com/paper/convolutional-neural-networks-for-sentence
 
