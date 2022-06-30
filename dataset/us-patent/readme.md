@@ -8,12 +8,12 @@ The scores are in the 0-1 range with increments of 0.25 with the following meani
   - 0.25 - Somewhat related, e.g. the two phrases are in the same high level domain but are not synonyms. This also includes antonyms.
   - 0.0 - Unrelated.
 
-2.**Files**\
+2.**Files**
   - train.csv - the training set, containing phrases, contexts, and their similarity scores
   - test.csv - the test set set, identical in structure to the training set but without the score
   - sample_submission.csv - a sample submission file in the correct format
 
-3.**Columns**\
+3.**Columns**
   - id - a unique identifier for a pair of phrases
   - anchor - the first phrase
   - target - the second phrase
